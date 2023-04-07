@@ -1,4 +1,4 @@
-# Water-Potability-Prediction-Classification-task
+# Water Potability Prediction. Classification and Bootstrapping 
 
 This Jupyter notebook aims to predict whether a water sample is safe for consumption based on its chemical composition. The dataset used in this project is from Kaggle and can be downloaded from [here](https://www.kaggle.com/adityakadiwal/water-potability).
 
